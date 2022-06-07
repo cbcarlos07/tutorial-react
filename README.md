@@ -6,3 +6,6 @@ Link do Curso
 
 https://www.youtube.com/watch?v=ErjWNvP6mko
 
+Resultado final
+
+![](https://github.com/cbcarlos07/tutorial-react/blob/main/public/tarefas1.png)
